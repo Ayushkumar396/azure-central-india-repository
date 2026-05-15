@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "azurecentralindiafac"
+		},
+		"FileLocation_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"FileLocation_properties_typeProperties_host": {
+			"value": "C:\\Users\\AMAN KUMAR\\Downloads\\CRM SALES"
+		},
+		"FileLocation_properties_typeProperties_userId": {
+			"value": "AMAN KUMAR"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://azurecentralindiastorage.dfs.core.windows.net/"
+		}
+	}
+}
