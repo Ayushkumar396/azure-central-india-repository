@@ -5,20 +5,20 @@
 		"factoryName": {
 			"value": "azurecentralindiafac"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
 		"FileLocation_password": {
 			"value": ""
 		},
-		"AzureDataLakeStorage1_accountKey": {
-			"value": ""
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://azurecentralindiastorage.dfs.core.windows.net/"
 		},
 		"FileLocation_properties_typeProperties_host": {
 			"value": "C:\\Users\\AMAN KUMAR\\Downloads\\CRM SALES"
 		},
 		"FileLocation_properties_typeProperties_userId": {
 			"value": "AMAN KUMAR"
-		},
-		"AzureDataLakeStorage1_properties_typeProperties_url": {
-			"value": "https://azurecentralindiastorage.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"value": ""
