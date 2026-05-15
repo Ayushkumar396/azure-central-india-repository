@@ -1,0 +1,15 @@
+{
+	"name": "azurecentralindiafac",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "57ac18f1-975f-41b5-bf85-c77f4c9932e3",
+		"tenantId": "638f7f8f-a0cf-46bc-9448-9954516ec1aa"
+	}
+}
